@@ -1,7 +1,8 @@
 ### This is our test research group page
 
 Group Members:
-PI: Madicken Munk 
+Madicken Munk (PI) 
+Other cool PI
 
 Undergraduate Researchers:
  
