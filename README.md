@@ -4,4 +4,4 @@ Group Members:
 PI: Madicken Munk 
 
 Undergraduate Researchers:
- 
+Sam Stein
