@@ -5,4 +5,5 @@ Madicken Munk (PI)
 Other cool PI
 
 Undergraduate Researchers:
+Gregory McCoy
 Sam Stein
