@@ -6,3 +6,4 @@ Other cool PI
 
 Undergraduate Researchers:
 Gregory McCoy
+Sam Stein
